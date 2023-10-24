@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "styled-components": "^5.3.3",
     "@rai/design-system": "*",
     "@rai/utils": "*",
     "next": "^13.5.6",
@@ -18,7 +19,6 @@
   },
   "devDependencies": {
     "@rai/tsconfig-commons": "*",
-
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^10.0.1"
   }
