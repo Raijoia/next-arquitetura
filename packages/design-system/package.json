@@ -4,12 +4,14 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "test": "jest",
     "lint": "eslint './**/*.{ts,tsx}'"
   },
   "dependencies": {
     "styled-components": "^6.1.0"
   },
   "devDependencies": {
+    "@rai/test-commons": "*",
     "@rai/tsconfig-commons": "*",
     "@rai/eslint-commons": "*"
   }
