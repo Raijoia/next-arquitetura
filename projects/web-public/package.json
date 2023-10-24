@@ -17,6 +17,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@rai/tsconfig-commons": "*",
     "@types/node": "^20.8.7",
     "@types/react": "^18.2.31",
     "next-compose-plugins": "^2.2.1",
